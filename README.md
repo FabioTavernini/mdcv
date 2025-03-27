@@ -60,7 +60,7 @@ Lehrgang zum Betriebsinformatiker EFZ
 
 ---
 
-### Referenzen
+## Referenzen
 
 - **Patrik Decurtins**  
   **Position:** Teamleiter Customer Solutions  
