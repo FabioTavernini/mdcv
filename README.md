@@ -11,7 +11,8 @@ Als motivierter und lernbegeisterter Informatiker mit Erfahrung in verschiedenen
 
 #### _Juni  2022 bis heute_
 
-* Programmierung & Scripting: PHP, SQL, JavaScript / NodeJS, PowerShell, HTML, CSS
+* Programmierung & Scripting: PHP, SQL, JavaScript / NodeJS, PowerShell
+* Erstellen, verwalten, debugging & monitoring von Schnittstellen (VB.NET :no_mouth:, MSSQL, SSRS, SSIS)
 * Automation & CI/CD: Implementierung von CI/CD-Pipelines, GIT (Gitea, GitLab), Automatisierung von Deployments
 * Web-Technologien: Wartung und Weiterentwicklung interner Webportale, Migration von PHP-Versionen, Entwicklung & Debugging von Schnittstellen
 * System- und Anwendungsmanagement: Betrieb und Pflege von Anwendungen, Legacy-Codeverwaltung (PHP, VB), Fehlerbehebung im 1st und 2nd Level Support
@@ -26,11 +27,12 @@ Als motivierter und lernbegeisterter Informatiker mit Erfahrung in verschiedenen
 * Windows, Linux & Container-Technologien
 * PHP & SQL
 * CI/CD Implementierung
-* Codeverwaltung, versionierung mit GIT (Gitea, GitLab)
-* Dokumentation & Support
+* Codeverwaltung, versionierung mit GIT (Gitea, GitLab, Github)
+* Erstellen von Dokumentationen & leisten von Support
 
 **Menschliches:**
 * Positive Einstellung & Arbeitsmoral
+* Immer bereit neues zu lernen
 * Teamfähig
 * Can-do-Mentalität
 * Offene Haltung
