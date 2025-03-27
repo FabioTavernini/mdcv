@@ -58,3 +58,24 @@ Lehrgang zum Betriebsinformatiker EFZ
 
 #### _Aug 2015 bis Aug 2018_
 
+---
+
+### Referenzen
+
+- **Patrik Decurtins**  
+  **Position:** Teamleiter Customer Solutions  
+  **Unternehmen:** ITSH Schaffhausen  
+  **E-Mail:** [patrik.decurtins@itsh.ch](mailto:patrik.decurtins@itsh.ch)  
+  **Telefon:** +41 79 571 27 18  
+
+- **Marco Schirru**  
+  **Position:** Abteilungsleiter & Mitglied der Geschäftsleitung  
+  **Unternehmen:** ITSH Schaffhausen  
+  **E-Mail:** [marco.schirru@itsh.ch](mailto:marco.schirru@itsh.ch)  
+  **Telefon:** +41 52 632 70 52
+
+- **Dominik Uehlinger**  
+  **Position:** ICT-Koordinator  
+  **Unternehmen:** Georg Fischer AG  
+  **E-Mail:** [dominik.uehlinger@georgfischer.com](mailto:dominik.uehlinger@georgfischer.com)  
+  **Telefon:** +41 79 839 52 75 
